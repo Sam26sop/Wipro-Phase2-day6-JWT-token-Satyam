@@ -1,5 +1,3 @@
-Here is the complete **README.md** file for your project. Copy and save it as `README.md` in your project directory.  
-
 ```md
 # 🚀 Spring Boot Security - Job Management System
 
